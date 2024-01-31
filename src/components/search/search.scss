@@ -1,0 +1,24 @@
+div{
+    form{
+        position: center;
+        width: 820px;
+        margin: 0 auto;
+
+        .keybord-input{
+            width: 820px;
+            height: 64px;
+            padding-left: 15px;
+            border: none;
+            background: white;
+            outline: none;
+            position: relative;
+            transition: .3s linear;
+            margin-top: -32px;
+        }
+        form:after{
+            content:""; 
+            clear:both; 
+            display:table;
+        }
+    }
+}

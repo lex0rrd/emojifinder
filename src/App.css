@@ -1,0 +1,9 @@
+.App {
+  margin: 0;
+  padding: 0;
+  background:#EDEEF3;
+  font-family: 'Inter', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}

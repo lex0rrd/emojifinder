@@ -1,0 +1,19 @@
+header{
+    background: linear-gradient(#196B78, #138496);
+    height: 295px;
+    .heading, .subtitle{
+        text-align: center;
+        color:#CCF8FF;
+        margin: 0;
+    }
+    .heading{
+        font-size: 72px;
+        padding-top: 64px;
+        margin-bottom: 12px;
+    }
+    .subtitle{
+        font-size: 21px;
+        opacity: .3;
+    }
+
+}
